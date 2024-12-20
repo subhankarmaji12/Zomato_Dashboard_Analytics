@@ -1,16 +1,17 @@
-# Zomato_Dashboard_Analytics
+# Zomato_Dashboard_Analytics (Power BI Report)
 <p align="center">
   <img src="https://github.com/subhankarmaji12/Zomato_Dashboard_Analytics/blob/main/index.png?raw=true" width="1000" title="dashboard">
 </p>
 
 📊 Project Description
 
-    This project is a Zomato Dashboard Analytics application designed to provide insights into Zomato's 
-    business performance across different cities. It also includes user performance metrics, helping 
-    stakeholders understand user engagement and behavior.
-    Zomato Dashboard Analytics
+     This project is a Power BI-based Zomato Dashboard Analytics report. It provides detailed insights 
+     into 
+     Zomato's business and user performance across various cities. The dashboard uses interactive 
+     visualizations and key metrics to help stakeholders analyze trends and make data-driven decisions.
 
-Key Features:
+
+🚀 Features 
 
       DAX Mastery: Learn to create dynamic measures and perform data transformations using Data Analysis Expressions (DAX) in Power BI.
       UI Improvement: Enhance your user interface development skills with hands-on projects and practical examples, optimizing your Power BI dashboard.
